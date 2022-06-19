@@ -7,7 +7,7 @@
 
 
 ## Screenshots
-<img src="./img/cw1.PNG" alt="" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;img src="./img/CW2.PNG" alt="" width="200"/>
+<img src="./img/cw1.PNG" alt="" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/CW2.PNG" alt="" width="200"/>
 
 
 
