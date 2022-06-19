@@ -1,5 +1,5 @@
 # CrazyWorldo
->a 3D RPG game made by downloading characters and animations from Mixamo and also using the unity starter asset..
+>a 3D RPG game made by downloading characters and animations from Mixamo and also using the unity starter asset...
 
 
 ## Technologies Used
