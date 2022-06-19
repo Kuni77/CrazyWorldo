@@ -7,7 +7,7 @@
 
 
 ## Screenshots
-![Example screenshot](./img/cw1.PNG)(./img/CW2.PNG)
+![Example screenshot](./img/cw1.PNG)|![Example screenshot](./img/CW2.PNG)
 
 
 ## Project Status
